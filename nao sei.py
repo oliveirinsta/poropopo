@@ -1,1 +1,2 @@
 input("escreva")
+print corinthians
